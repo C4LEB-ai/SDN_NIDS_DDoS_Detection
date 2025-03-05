@@ -1,0 +1,1 @@
+Machine Learning-based Network-Based Intrusion Detection System (NIDS) tailored for detecting Distributed Denial of Service (DDoS) attacks within Software-Defined Networking (SDN) environments, specifically in cloud computing infrastructures. 
